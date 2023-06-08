@@ -6,3 +6,16 @@
 > <b> Object-Oriented Thinking </b>
 > 
 >> Introduction
+>> Java buzzwords
+>> An Overview of Java
+>> Data types, Variables
+>> Operators, Expressions
+
+
+# Important Questions Covered
+
+1. List JAVA Buzzwords / features?
+2. Describe the structure of typical JAVA program with an eample?
+3. What is meant by bytecode? Briefly explain how java is platform independent?
+4. List the primitive data type available in java and explain?
+
