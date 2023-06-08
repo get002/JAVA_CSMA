@@ -5,15 +5,11 @@
 # UNIT - 01
 > <b> Object-Oriented Thinking </b>
 > 
->> Introduction
->> 
->> Java buzzwords
->> 
->> An Overview of Java
->> 
->> Data types, Variables
->> 
->> Operators, Expressions
+>> Introduction <br/>
+>> Java buzzwords <br/>
+>> An Overview of Java <br/>
+>> Data types, Variables <br/>
+>> Operators, Expressions <br/>
 >> 
 
 
