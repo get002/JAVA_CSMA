@@ -6,10 +6,15 @@
 > <b> Object-Oriented Thinking </b>
 > 
 >> Introduction
+>> 
 >> Java buzzwords
+>> 
 >> An Overview of Java
+>> 
 >> Data types, Variables
+>> 
 >> Operators, Expressions
+>> 
 
 
 # Important Questions Covered
