@@ -12,13 +12,17 @@
 >> An Overview of Java <br/>
 >> Data types, Variables <br/>
 >> Operators, Expressions <br/>
->> Control Statements 
+>> Control Statements
+>> Arrays 
 
 
 # Important Questions Covered
 
 1. List JAVA Buzzwords / features?
 2. Describe the structure of typical JAVA program with an eample?
-3. What is meant by bytecode? Briefly explain how java is platform independent?
-4. List the primitive data type available in java and explain?
+4. What is meant by bytecode? Briefly explain how java is platform independent?
+5. List the primitive data type available in java and explain?
+6. Explain the difference between the prefix and postfix forms of the increment operator ?
+7. Write a program that finds all of the prime numbers between 2 and 100 ?
+8. What is an Array? How do you declare Array in JAVA? Write a JAVA Program to find Multiplication of two matrices?
 
