@@ -18,7 +18,7 @@
 
 # Important Questions Covered
 
-1.  (a) Explain the way of viewing the world agents to Object oriented.
+1.  (a) Explain the way of viewing the world agents to Object oriented.<br/>
     (b) Explain the way of viewing the world responsibilities about Object Oriented.
 2.  List JAVA Buzzwords / features?
 3. Describe the structure of typical JAVA program with an eample?
