@@ -18,8 +18,10 @@
 
 # Important Questions Covered
 
-1. List JAVA Buzzwords / features?
-2. Describe the structure of typical JAVA program with an eample?
+1.  (a) Explain the way of viewing the world agents to Object oriented.
+    (b) Explain the way of viewing the world responsibilities about Object Oriented.
+2.  List JAVA Buzzwords / features?
+3. Describe the structure of typical JAVA program with an eample?
 4. What is meant by bytecode? Briefly explain how java is platform independent?
 5. List the primitive data type available in java and explain?
 6. Explain the difference between the prefix and postfix forms of the increment operator ?
