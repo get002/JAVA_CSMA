@@ -13,7 +13,18 @@
 >> Data types, Variables <br/>
 >> Operators, Expressions <br/>
 >> Control Statements <br/>
->> Arrays 
+>> Arrays <br/>
+>> operators, expressions <br/>
+>> control statements <br/>
+>> Introducing classes, Methods and Classes <br/>
+>> String handling <br/>
+
+> <b> Inheritance </b>
+>
+>> Inheritance concept, Inheritance basics<br/>
+>> Constructors<br/>
+>> Creating Multilevel hierarchy<br/>
+>> super uses, using final with inheritance<br/>
 
 
 # Important Questions Covered
@@ -27,4 +38,13 @@
 6. Explain the difference between the prefix and postfix forms of the increment operator ?
 7. Write a program that finds all of the prime numbers between 2 and 100 ?
 8. What is an Array? How do you declare Array in JAVA? Write a JAVA Program to find Multiplication of two matrices?
+9. Explain various control structures and lexical issues in Java?
+10. Explain the basic concepts of object oriented programming?
+11. List string manipulation functions of Java String class?<br/>
+    or <br/>
+    Write in detail on methods of String class ?
+12. Explain the use of ‘this’ keyword ?
+13. With suitable program segments describe the usage of ‘super’ keyword ?
+14. Explain method overriding with a suitable example program ?
+
 
